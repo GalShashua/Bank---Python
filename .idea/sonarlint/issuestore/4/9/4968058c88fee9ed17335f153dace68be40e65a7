@@ -1,0 +1,7 @@
+
+vpython:S116D"SRename this field "startButton" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÂÏ§Çûÿÿÿÿ8ù¿‘ö­-
+}python:S116G"ZRename this field "includeCheckButton" to match the regular expression ^[_a-z][_a-z0-9]*$.(´–»Ÿÿÿÿÿÿ8ù¿‘ö­-
+rpython:S3776#"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÈÂ‰88ù¿‘ö­-
+qpython:S116H"SRename this field "letterEntry" to match the regular expression ^[_a-z][_a-z0-9]*$.(º¶¤8ù¿‘ö­-
+vpython:S116F"SRename this field "graphButton" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÛÃá³üÿÿÿÿ8ù¿‘ö­-
+rpython:S116E"URename this field "restartButton" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ú©á~8ù¿‘ö­-
